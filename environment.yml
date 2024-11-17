@@ -1,0 +1,18 @@
+name: interp-2024
+channels:
+- conda-forge
+dependencies:
+- python>=3.12
+- ipython
+- jupyter
+- ipykernel
+- numpy
+- scipy
+- pandas>=1.4.4
+- bokeh>=3.4.0
+- matplotlib
+- pip
+- pip:
+  - ipympl
+  - bokeh_sampledata
+  - openpyxl

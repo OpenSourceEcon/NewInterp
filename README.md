@@ -1,2 +1,2 @@
 # NewInterp
-Junk repository for testing interpolation methods
+This is a junk repository for testing interpolation methods.
